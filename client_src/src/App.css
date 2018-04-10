@@ -1,0 +1,22 @@
+.nav-title{
+  margin-top: 0%;
+  text-align: center;
+}
+
+.inline-icon{
+  display: inline-flex;
+  vertical-align: middle;
+}
+
+.center{
+  text-align: center;
+}
+
+.fab {
+  margin: 0px;
+  top: auto;
+  right: 20px;
+  bottom: 20px;
+  left: auto;
+  position: fixed;
+}
